@@ -1,0 +1,38 @@
+* {
+	margin: 0;
+	padding: 0;
+  font-size: 100%;
+	line-height: 1.5em;
+}
+
+ 
+body {
+  background: url("assets/freedom.jpeg") no-repeat center center fixed;
+  background-size: cover;
+	width: 100%;
+	height: 100vh;
+  }
+
+div {
+	padding-top: 8%;
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.quotation {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 32px;
+	font-weight: 100;
+	text-transform: uppercase;
+	color: rgba(0,0,0,.5);
+	letter-spacing: 0.1em;
+}
+
+.author {
+	font-size: 18px;
+	font-family: 'Great Vibes';
+	font-style: italic;
+	padding-top: 6%;
+  }
+
